@@ -155,8 +155,9 @@ No known bugs at this time.
 
 ## Authors
 Firaol Asrat - [Github](https://github.com/firaolw)
+
 Joy Temewei- [Github](https://github.com/Nimi1104)
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
